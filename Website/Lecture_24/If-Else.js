@@ -18,12 +18,10 @@ if (number1 > 0) {
     console.log("The number is zero.");
 }
 
-
 // example 3
 
 
-// Program 1: Check if a number is positive, negative, or zero
-// Program 1: Check if a number is positive, negative, or zero
+
 let number2 = -5;
 
 if (number2 > 0) {
